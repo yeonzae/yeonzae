@@ -1,6 +1,6 @@
-<img src="assets/developer-feature.png" alt="Yeonjae Im featured in 흑백개발자" width="180" align="right" />
-
 # Yeonjae Im · 임연재
+
+<img src="assets/developer-feature.png" alt="Yeonjae Im featured in 흑백개발자" width="180" align="right" />
 
 **Founder at [SENEH](https://seneh.ai). Engineer. Product builder.**
 
